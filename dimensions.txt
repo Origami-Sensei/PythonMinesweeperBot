@@ -1,0 +1,7 @@
+Point(x=23, y=250)
+Point(x=602, y=551)
+
+16x32 grid
+
+20x20 pixels
+
